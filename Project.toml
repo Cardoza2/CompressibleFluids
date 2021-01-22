@@ -1,0 +1,9 @@
+name = "CompressibleFluids"
+uuid = "2d4ed272-937f-4469-b3aa-0a6a0c0e308f"
+authors = ["cardoza2 <adam@cardoza.one>"]
+version = "0.1.0"
+
+[deps]
+FLOWMath = "6cb5d3fb-0fe8-4cc2-bd89-9fe0b19a99d3"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
